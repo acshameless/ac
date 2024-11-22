@@ -1,0 +1,21 @@
+{% if page.comments != false %}
+<div class="giscus-container">
+<script
+  src="https://giscus.app/client.js"
+  data-repo="acshameless/ac"
+  data-repo-id="R_kgDONTgEQw"
+  data-category="General"
+  data-category-id="DIC_kwDONTgEQ84CkhqI"
+  data-mapping="title"
+  data-strict="0"
+  data-loading="lazy"
+  data-reactions-enabled="1"
+  data-emit-metadata="0"
+  data-input-position="bottom"
+  data-lang="{% if page.lang == 'en-US' %}en{% else %}zh-CN{% endif %}"
+  data-theme="https://gw.alipayobjects.com/os/k/t/comment.css"
+  crossorigin="anonymous"
+  async
+></script>
+</div>
+{% endif %}
