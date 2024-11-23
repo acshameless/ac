@@ -22,6 +22,8 @@ menu:
     url: "https://sap.shameless.top/"
   - title: "Algo Notes"
     url: "https://algo.shameless.top/"
+  - title: "Read Notes"
+    url: "https://read.shameless.top/"
 
 # SEO and Analytics
 google_analytics: 
