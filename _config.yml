@@ -18,11 +18,13 @@ menu:
     url: "https://weekly.shameless.top/"
   - title: "About"
     url: "/about.html"
-  - title: "SAP Notes"
+  - title: "Todo"
+    url: "https://todo.shameless.top/"
+  - title: "SAP"
     url: "https://sap.shameless.top/"
-  - title: "Algo Notes"
+  - title: "Algo"
     url: "https://algo.shameless.top/"
-  - title: "Read Notes"
+  - title: "Read"
     url: "https://read.shameless.top/"
 
 # SEO and Analytics
